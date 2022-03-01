@@ -1,4 +1,10 @@
 ### Hi there 👋
+### 🌱 I’m currently learning Data Structures in Java and Backend Devolpment.
+### 🔭 I’m currently working on Different Projects.
+### 💬 Ask me anything about Data Structures and ReactJS.
+### 📫 How to reach me: Yashugupta3657@gmail.com
+### ⚡ Fun fact: Eat sleep study repeat. -->
+
 
 <!--
 **Yashugupta3657/Yashugupta3657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
