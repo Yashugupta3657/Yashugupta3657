@@ -4,6 +4,7 @@
 ### 💬 Ask me anything about Data Structures and ReactJS.
 ### 📫 How to reach me: Yashugupta3657@gmail.com
 ### ⚡ Fun fact: Eat sleep study repeat. -->
+### 😄 I'm a good listener.
 
 
 <!--
