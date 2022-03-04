@@ -2,7 +2,7 @@
 ### 🌱 I’m currently learning Data Structures in Java and Backend Devolpment.
 ### 🔭 I’m currently working on Different Projects.
 ### 💬 Ask me anything about Data Structures and ReactJS.
-### 📫 How to reach me: Yashugupta3657@gmail.com
+### 📫 How to reach me: Yashu1296.cse19@chitkara.edu.in
 ### ⚡ Fun fact: Eat sleep study repeat. -->
 ### 😄 I'm a good listener.
 
