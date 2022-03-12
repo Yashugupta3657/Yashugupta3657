@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Data Structures in Java and Backend Devolpment.
+### 🌱 I’m currently learning Data Structures in Java and ReactJS in front-end Development
 ### 🔭 I’m currently working on Different Projects.
 ### 💬 Ask me anything about Data Structures and ReactJS.
 ### 📫 How to reach me: Yashu1296.cse19@chitkara.edu.in
