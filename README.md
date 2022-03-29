@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashu Gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashugupta3657&label=Profile%20views&color=0e75b6&style=flat" alt="yashugupta3657" /> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/yashu-gupta-cdce/" target="blank"><img src="https://img.shields.io/badge/Linkedin-Yashu%20Gupta-blue?style=for-the-badge&logo=linkedin" alt="Yashu Gupta" /></a> </p>
+
 
 ### 🌱 I’m currently learning Data Structures in Java and ReactJS in front-end Development
 ### 🔭 I’m currently working on Different Projects.
@@ -7,7 +9,6 @@
 ### 📫 How to reach me: Yashu1296.cse19@chitkara.edu.in
 ### ⚡ Fun fact: Eat sleep study repeat. -->
 ### 😄 I'm a good listener. 
-<p align="left"> <a href="https://www.linkedin.com/in/yashu-gupta-cdce/" target="blank"><img src="https://img.shields.io/badge/Linkedin-Yashu%20Gupta-blue?style=for-the-badge&logo=linkedin" alt="Yashu Gupta" /></a> </p>
 <h3 align="left">Connect with me:<img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px"/></h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yashu-gupta-cdce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashu-gupta-cdce/" height="30" width="40" /></a>
