@@ -6,7 +6,7 @@
 ### 🌱 I’m currently learning Data Structures in Java and ReactJS in front-end Development
 ### 🔭 I’m currently working on Different Projects.
 ### 💬 Ask me anything about Data Structures and ReactJS.
-### 📫 How to reach me: Yashu1296.cse19@chitkara.edu.in
+### 📫 How to reach me: Yashugupta3657@gmail.com
 ### ⚡ Fun fact: Eat sleep study repeat. -->
 ### 😄 I'm a good listener. 
 <h3 align="left">Connect with me:<img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px"/></h3>
